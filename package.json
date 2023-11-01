@@ -1,0 +1,19 @@
+{
+  "name": "vitebootstrap-8tund",
+  "version": "1.0.0",
+  "description": "Laadisin giti alla ja proovin üles tagasi lükata.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milamakarenko17/Vitebootstrap-8tund.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milamakarenko17/Vitebootstrap-8tund/issues"
+  },
+  "homepage": "https://github.com/milamakarenko17/Vitebootstrap-8tund#readme"
+}
